@@ -1,6 +1,6 @@
 {
   "name": "wordle-word-today",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A command line tool that prints todays wordle solution to the console",
   "main": "index.js",
   "scripts": {

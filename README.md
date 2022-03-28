@@ -1,4 +1,4 @@
-# wordle-today
+# wordle-word-today
 
 This is a command line tool that solves today's wordle puzzle and prints the result
 
